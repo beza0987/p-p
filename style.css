@@ -1,0 +1,41 @@
+.navb{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(184, 234, 195);
+    padding: 30px;
+    height: 10px;
+    
+}
+nav a :hover{background-color: aqua;}
+#aboutme{
+   background: radial-gradient(circle, #decc99, #ff8a3d);
+    background-repeat: no-repeat;
+    height: 10vh;
+}
+h1 { text-align: center;}
+#aboutme{
+th{color:cadetblue;}
+td {color: darkblue;}}
+
+#education
+{background-color: rgb(208, 208, 218);}
+th{color: rgb(48, 82, 115);}
+#hobbies{background-color: bisque;}
+.intro{display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+.kapakana {
+  font-family: "Kapakana", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+home img{ margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;}
+.creed{margin-right: 10px;}
+.art{margin-right: 10px;}
+.hidden{margin-left: 10px;}
+.gt{margin-left: 10px;}
